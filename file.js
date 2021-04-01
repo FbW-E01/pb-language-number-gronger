@@ -12,3 +12,7 @@ console.log(myStringVariable + " everyone my name is joe and in 5 years i will b
 const myNewString = "1005";
 const myNewStringAsANumber = parseInt(myNewString);
 console.log(myNewStringAsANumber);
+
+const myFloatString = "10.05";
+const myFloatNumber = parseFloat(myFloatString);
+console.log(myFloatNumber);
